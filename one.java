@@ -15,7 +15,7 @@ public class one {
 	      System.out.println(number + " is not a prime number.");
 	
 }
-
+system.out.println("priunt")
 }
 
 
